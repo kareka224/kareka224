@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kareka224
-- 👀 I’m interested in GNNs, will use it to build a model for effective fake news detection and an online scarm detection  
+- 👀 I’m interested in GNNs, will use it to build a model for effective fake news detection and an online fraud detection  
 - 🌱 I’m currently learning Graph Neural Network with Pytorch 
 - 💞️ I’m looking to collaborate on publishing papers on the aformentioned topics 
 - 📫 How to reach me ahmadidriskareka@outlook.com 
